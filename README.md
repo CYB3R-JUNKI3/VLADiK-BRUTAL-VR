@@ -41,8 +41,7 @@ Big thanks to GanJJ_ for the save game and Sneaky Dim with more weapons to work 
     (Below is for folks who don't want to click their Thumb-Sticks) 
 
 - Sprint mapped to Right Thumb-Stick ↑ 
--  mapped to Right Thumb-Stick ↓
-  (In game Sprint (L3) and   (R3) still works as intended)
+  (In game Sprint (L3) still works as intended)
 ----
 
 
@@ -54,7 +53,7 @@ Big thanks to GanJJ_ for the save game and Sneaky Dim with more weapons to work 
 ----
 
 ## Weapon Melee/Throw Gesture
-    This works when equipped with the Crowbar, Grenade and Molotov. 
+    This works when equipped with the Crowbar, Grenade or Molotov. 
 - If using the Crowbar, Swing and stop the Right controller pointing at the object you want to hit.
 - If using Grenades or Molotov, perform a Throwing motion and stop the Right controller at the angle you want to release at
   (In game Melee and Throwing (RT) still works as intended)
