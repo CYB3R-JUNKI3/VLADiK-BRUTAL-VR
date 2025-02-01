@@ -38,10 +38,10 @@ Big thanks to GanJJ_ for the save game and Sneaky Dim with more weapons to work 
 - Left Thumb-Stick switches to D-Pad for menu's/Inventory
 - Optional plugin for Index Controllers by Markmon
 
-    (Below is for folks who don't want to click their Thumb-Sticks) 
+####    (Below is for folks who don't want to click their Thumb-Sticks) 
 
 - Sprint mapped to Right Thumb-Stick ↑ 
-  (In game Sprint (L3) still works as intended)
+####  (In game Sprint (L3) still works as intended)
 ----
 
 
@@ -53,10 +53,10 @@ Big thanks to GanJJ_ for the save game and Sneaky Dim with more weapons to work 
 ----
 
 ## Weapon Melee/Throw Gesture
-    This works when equipped with the Crowbar, Grenade or Molotov. 
+#### This works when equipped with the Crowbar, Grenade or Molotov. 
 - If using the Crowbar, Swing and stop the Right controller pointing at the object you want to hit.
 - If using Grenades or Molotov, perform a Throwing motion and stop the Right controller at the angle you want to release at
-  (In game Melee and Throwing (RT) still works as intended)
+####  (In game Melee and Throwing (RT) still works as intended)
 ----
 
 
@@ -71,6 +71,8 @@ Big thanks to GanJJ_ for the save game and Sneaky Dim with more weapons to work 
 ## Other Features
 - Weapon Scale/Angle fixes included so no need for extra "scale-fix" pak mods
 - Aligned weapons for much better accuracy
+- Car scenes fixed
+- Weapon pickup cams fixed
 - Character arms hidden
 - Attached weapons to Right Controller
 - Adjusted weapon positions for better feel
@@ -78,6 +80,7 @@ Big thanks to GanJJ_ for the save game and Sneaky Dim with more weapons to work 
 - Bullet spread reduced when not aiming
 - Weapon sway and magnetism removed
 - Aiming walk speed increased
+- Aiming while running now possible
 - Movement orientation set to Left Controller (feel free to change)
 - Free head/controller movement in main menu/pause menu/inventory/cut-scenes/Interactions
 - All dialogues have free head/controller movement
