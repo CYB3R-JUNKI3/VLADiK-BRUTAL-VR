@@ -23,9 +23,7 @@ Big thanks to GanJJ_ for the save game and Sneaky Dim with more weapons to work 
 - Aim Method
 - D-Pad Shifting Method
 - DecoupledPitchUIAdjust
-- CameraUpOffset
-- CameraForwardOffset
-- CameraRightOffset
+
 ----
 
 
