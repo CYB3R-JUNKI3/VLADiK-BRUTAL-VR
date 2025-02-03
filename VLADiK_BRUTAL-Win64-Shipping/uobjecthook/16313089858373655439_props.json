@@ -1,0 +1,18 @@
+{
+    "hide": false,
+    "hide_legacy": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Pik_Up_Object_P",
+        "Properties",
+        "RelativeLocation"
+    ],
+    "properties": [
+        {
+            "data": 1109393408,
+            "name": "X"
+        }
+    ],
+    "type": "properties"
+}
