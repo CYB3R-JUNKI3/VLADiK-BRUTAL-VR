@@ -23,8 +23,6 @@ Big thanks to GanJJ_ for the save game and Sneaky Dim with more weapons to work 
 - Aim Method
 - D-Pad Shifting Method
 - DecoupledPitchUIAdjust
-- UI Distance
-- UI Size
 - CameraUpOffset
 - CameraForwardOffset
 - CameraRightOffset
@@ -34,7 +32,6 @@ Big thanks to GanJJ_ for the save game and Sneaky Dim with more weapons to work 
 
 ## Controls
 - No change to game controls
-- If using the Crosshair mod, will appear when you aim
 - Left Thumb-Stick switches to D-Pad for menu's/Inventory
 - Optional plugin for Index Controllers by Markmon
 
