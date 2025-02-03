@@ -45,7 +45,8 @@ Big thanks to GanJJ_ for the save game and Sneaky Dim with more weapons to work 
 
 ## Weapon Select
 1. Press your Right Grip to open the Weapon Select
-2. Select weapon with A button
+2. Choose your weapon with Left Thumb-Stick
+3. Select weapon with A button
 
 ----
 
@@ -56,7 +57,16 @@ Big thanks to GanJJ_ for the save game and Sneaky Dim with more weapons to work 
 ####  (In game Melee and Throwing (RT) still works as intended)
 ----
 
-
+## In Car
+- Right Grip = Start/Stop Engine
+- Right Trigger = Accelerate
+- Left Trigger = Brake
+- A = Get In/Out
+- B = Radio On/Off
+- X = Handbrake
+- Y = Lights
+####  (Using Index Controllers, may be different for your Controllers)
+----
 
 ## Recenter/Re-calibrate (standing or sitting)
 - Quickly press Left+Right Trigger during menus/cut-scenes/interactions
@@ -68,6 +78,7 @@ Big thanks to GanJJ_ for the save game and Sneaky Dim with more weapons to work 
 ## Other Features
 - Weapon Scale/Angle fixes included so no need for extra "scale-fix" pak mods
 - Aligned weapons for much better accuracy
+- Heavily reduced vignettes (Blood vignette kept as is)
 - Car scenes fixed
 - Weapon pickup cams fixed
 - Character arms hidden
