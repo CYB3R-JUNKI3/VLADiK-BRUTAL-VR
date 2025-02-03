@@ -1,0 +1,28 @@
+{
+    "hide": false,
+    "hide_legacy": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "EquippedWeapon"
+    ],
+    "properties": [
+        {
+            "data": 0,
+            "name": "RecoilYaw"
+        },
+        {
+            "data": 0,
+            "name": "CameraShakeScale"
+        },
+        {
+            "data": 0,
+            "name": "CameraShakeScale_ADS"
+        },
+        {
+            "data": 0,
+            "name": "Spawn_Traiser"
+        }
+    ],
+    "type": "properties"
+}

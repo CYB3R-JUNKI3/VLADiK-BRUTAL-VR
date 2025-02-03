@@ -1,0 +1,22 @@
+{
+    "hide": false,
+    "hide_legacy": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "PlayerHUD",
+        "Properties",
+        "vignette"
+    ],
+    "properties": [
+        {
+            "data": 0,
+            "name": "RenderOpacity"
+        },
+        {
+            "data": 0,
+            "name": "Visibility"
+        }
+    ],
+    "type": "properties"
+}
