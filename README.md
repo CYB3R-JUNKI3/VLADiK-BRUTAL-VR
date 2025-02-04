@@ -62,7 +62,7 @@ Big thanks to GanJJ_ for the save game and Sneaky Dim with more weapons to work 
 - A = Get In/Out
 - B = Radio On/Off
 - X = Handbrake
-- Y = Lights
+- Y = Lights On/Off
 ####  (Using Index Controllers, may be different for your Controllers)
 ----
 
